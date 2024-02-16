@@ -2,6 +2,7 @@
 
 # ECE 281 ICE 3: FullAdder with Top Level Design
 Documentation: I worked with C3C Josh wynn on the Testbench
+<img width="829" alt="simulation" src="https://github.com/Ashvath-Goteti/ece281-ice3/assets/142038102/b37934cb-a93d-4595-a86b-e40e38552364">
 
 **Fork** this repo.
 
@@ -10,6 +11,7 @@ Documentation: I worked with C3C Josh wynn on the Testbench
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
 
 Tested on Vivado 2018.2.
+
 
 ---
 
